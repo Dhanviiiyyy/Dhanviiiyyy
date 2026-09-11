@@ -1,6 +1,5 @@
 ## Hi there, I'm Shreedhanvi
 
-````markdown
 <div align="center">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Dhanvi
@@ -90,4 +89,3 @@ currently_exploring:
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
 
 </div>
-````
