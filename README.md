@@ -1,82 +1,71 @@
-## Hi there, I'm Shreedhanvi
-
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Dhanvi
+# hi, i'm shreedhanvi 👋
 
-### AI • Backend • Systems • Optimization
+### building ai systems, backend applications & optimization tools
 
 <img src="https://skillicons.dev/icons?i=python,cpp,ts,fastapi,postgres,pytorch,numpy,git,linux,vscode&perline=10" />
 
 <br>
 
-![](https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/Backend-2563EB?style=for-the-badge&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/Optimization-059669?style=for-the-badge)
-![](https://img.shields.io/badge/Systems-F59E0B?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20Source-111827?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/machine_learning-8b5cf6?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/backend-3b82f6?style=for-the-badge&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/optimization-10b981?style=for-the-badge)
+![](https://img.shields.io/badge/systems-f59e0b?style=for-the-badge)
+![](https://img.shields.io/badge/open_source-111827?style=for-the-badge&logo=github)
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+### 🌷 about me
 
 ```yaml
 education:
-  - B.Tech in Artificial Intelligence @ IIT Hyderabad
+  - b.tech in artificial intelligence @ iit hyderabad
 
-currently_exploring:
-  - Deep Learning for Healthcare Diagnosis
-  - Multi-Agent Systems
-  - Robotics
-  - AI in Finance
-  - Reinforcement Learning
+currently exploring:
+  - deep learning for healthcare diagnosis
+  - multi-agent systems
+  - robotics
+  - ai in finance
+  - reinforcement learning
 ```
 
 ---
 
-## 🛠 Skills
+### 🪄 skills
 
-### Languages
+#### languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![python](https://img.shields.io/badge/python-3776ab?style=flat-square&logo=python&logoColor=white)
+![c++](https://img.shields.io/badge/c++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+![sql](https://img.shields.io/badge/sql-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 
-### AI & Data
+#### ai & data
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![CVXPY](https://img.shields.io/badge/CVXPY-059669?style=flat-square)
+![pytorch](https://img.shields.io/badge/pytorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![cvxpy](https://img.shields.io/badge/cvxpy-059669?style=flat-square)
 
-### Backend
+#### backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-4B5563?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![fastapi](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-336791?style=flat-square&logo=postgresql&logoColor=white)
+![rest api](https://img.shields.io/badge/rest_api-4b5563?style=flat-square)
+![jwt](https://img.shields.io/badge/jwt-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### Tools
+#### tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![git](https://img.shields.io/badge/git-f05032?style=flat-square&logo=git&logoColor=white)
+![linux](https://img.shields.io/badge/linux-fcc624?style=flat-square&logo=linux&logoColor=black)
+![streamlit](https://img.shields.io/badge/streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)
+![latex](https://img.shields.io/badge/latex-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
 
 <img width="80%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
@@ -84,8 +73,10 @@ currently_exploring:
 
 ---
 
-<div align="center">
+### 🤍 let's connect
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yadlapally-shreedhanvi-561647314/">
+    <img src="https://img.shields.io/badge/connect_on_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
