@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/backend-3b82f6?style=for-the-badge&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/optimization-10b981?style=for-the-badge)
 ![](https://img.shields.io/badge/systems-f59e0b?style=for-the-badge)
-![](https://img.shields.io/badge/open_source-111827?style=for-the-badge&logo=github)
+
 
 </div>
 
@@ -66,13 +66,6 @@ currently exploring:
 
 ---
 
-
-<img width="80%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ### 🤍 let's connect
 
 <p align="center">
@@ -80,3 +73,5 @@ currently exploring:
     <img src="https://img.shields.io/badge/connect_on_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
