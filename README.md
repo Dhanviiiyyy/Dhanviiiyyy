@@ -67,7 +67,7 @@ a computer vision benchmarking framework comparing cnns and vision foundation mo
 ---
 ### 💌 let's connect
 
-<div align="center">
+<div >
 
 [linkedin](https://www.linkedin.com/in/yadlapally-shreedhanvi-561647314/)
 
