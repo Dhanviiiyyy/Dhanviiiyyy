@@ -54,7 +54,7 @@ a computer vision benchmarking framework comparing cnns and vision foundation mo
 
 **languages**
 
-`python` · `c++` · `typescript` · `sql`
+`python` · `c++` · `c` · `typescript` · `sql`
 
 **machine learning & data**
 
