@@ -1,6 +1,6 @@
 <div align="center">
 
-# hi, i'm shreedhanvi 🌻
+# hi, i'm shreedhanvi yadlapally 🌻
 
 ### artificial intelligence · machine learning · sde · quantitative computing
 
