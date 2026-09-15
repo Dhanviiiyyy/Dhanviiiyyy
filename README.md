@@ -4,7 +4,7 @@
 
 ### artificial intelligence · machine learning · sde · quantitative computing
 
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,pytorch,git,linux,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=cpp,python,c,ts,pytorch,git,linux,vscode&perline=7" />
 
 </div>
 
