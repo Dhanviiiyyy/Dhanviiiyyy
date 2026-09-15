@@ -26,7 +26,7 @@ currently exploring:
 
 ### 🌷 featured projects
 
-**[repforge](https://github.com/Dhanviiiyyy/repForge)**
+**[prepforge](https://github.com/Dhanviiiyyy/repForge)**
 
 an ai-powered interview preparation platform that extracts structured information from resumes and generates project-specific technical questions with personalized feedback.
 
