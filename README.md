@@ -4,7 +4,7 @@
 
 ### artificial intelligence · machine learning · sde · quantitative computing
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c,ts,pytorch,git,linux,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,python,c,ts,pytorch,git,linux,vscode, colab&perline=9" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ### 🪻 about me
 
-i'm an artificial intelligence undergrad student at **iit hyderabad**, interested in building systems that combine machine learning, mathematical modeling and practical engineering.
+i'm an artificial intelligence undergrad at **iit hyderabad**, interested in building systems that combine machine learning, mathematical modeling and practical engineering.
 
 currently exploring:
 
